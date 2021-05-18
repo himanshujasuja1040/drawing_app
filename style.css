@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+canvas{
+    width:50%;
+    height: 90vh;
+    border: 2px solid;
+}
+.color{
+    color: black;
+}
